@@ -1,0 +1,252 @@
+body {
+  background-color: #f8f9fa;
+  text-align: left;
+}
+
+.navbarText {
+  color: #cc3366;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+}
+
+nav .navbar-nav li a {
+  font-family: 'Lato', sans-serif;
+  color: #279dc8 !important;
+  letter-spacing: 0.5px;
+  font-size: 1.1rem;
+  }
+
+nav .navbar-nav li a:hover {
+  color: #cc3366 !important;
+}
+
+.sicher:hover {
+  background-color: #fff !important;
+  padding: 0.8rem;
+}
+
+.navbarText:hover {
+  color: #279dc8 !important;
+}
+
+.fett {
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+
+.header {
+  width: 100%;
+  height: 62.5rem;
+}
+
+.projekte {
+  margin: auto;
+  width: 80%;
+  height: 140rem;
+  background-color: #f8f9fa !important;
+}
+
+.projekteInner {
+  width: 100%;
+  background-color: #f8f9fa;
+  margin: auto;
+}
+
+.uns {
+  width: 100%;
+  height: 60rem;
+  background-color: #279dc8;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.section-heading {
+  font-size: 3.5rem;
+  font-family: 'Lato', sans-serif;
+  color: #279dc8 !important;
+  position: relative;
+  text-align: center;
+  margin: auto;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  font font-family: 'Lato', sans-serif;
+}
+
+.preise {
+  padding: 3% 2%;
+}
+
+.price-text {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+.btn {
+  color: #fff !important;
+  border-radius: 3%;
+  background-color: #cc3366 !important;
+  border: none;
+}
+
+.card-header {
+  background-color: #355c7d !important;
+  font-family: 'Lato', sans-serif;
+}
+
+.kontakt {
+
+}
+
+.headerOben {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  position: absolute;
+  margin-left: 25rem;
+  margin-top: 22rem;
+}
+
+.untertitel {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  position: absolute;
+  margin-left: 25.1rem;
+  margin-top: 28rem;
+}
+
+.AI {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 2rem 0 #355c7d;
+}
+
+.brain {
+  margin-top: 10rem;
+  width: 100%;
+  height: 55rem;
+  box-shadow: 0 0 2rem 0 #355c7d;
+  border-radius: 3%;
+}
+
+.kauf {
+  position: absolute;
+  margin-left: 25rem;
+  margin-top: 32.3rem;
+	background-color: transparent;
+  border: 1px solid;
+  border-width: 0.15rem;
+  border-radius: 3%;
+  border-color: #cc3366;
+	display:inline-block;
+	cursor:pointer;
+	color: #cc3366 !important;
+	font-family: 'Lato', sans-serif;
+	font-size: 1rem;
+	font-weight:bold;
+	padding:0.8rem 0.8rem;
+}
+
+.kauf:active {
+	position:relative;
+	top:1px;
+}
+
+.kauf:hover {
+	background-color:#cc3366;
+  color: #279dc8 !important;
+}
+
+.header {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  position: absolute;
+  margin: 40px auto;
+}
+
+.header2 {
+  margin: 13.75rem auto auto 57.6rem;
+  position: absolute;
+  color: #cc3366;
+  font-family: 'Lato', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.header3 {
+  margin: 13.75rem auto auto 55.2rem;
+  position: absolute;
+  color: #cc3366;
+  font-family: 'Lato', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.mobil {
+  margin: 11.5rem auto auto 68rem;
+  position: absolute;
+  color: #279dc8;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.mobil2 {
+  margin: 11.5rem auto auto 59rem;
+  position: absolute;
+  color: #279dc8;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.neuro {
+  margin-top: 10rem;
+  width: 100%;
+  height: 55rem;
+  border-radius: 3%;
+  box-shadow: 0 0 2rem 0 #355c7d;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.card-body {
+  background-color: #279dc8 !important;
+}
+
+#footer {
+  background-color: #279dc8 !important;
+}
+
+.download-button {
+  background-color: #355c7d !important;
+  color: #fff !important;
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  border-radius: 3%;
+}
